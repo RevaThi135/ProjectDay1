@@ -9,7 +9,10 @@ public class Main {
 		System.out.println("Hi");
 		System.out.println("Good morning");
 		System.out.println("------");
-		
+
+		System.out.println("Good Evening");
+		System.out.println("How are you");
+
 		
 		
 		

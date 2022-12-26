@@ -6,7 +6,8 @@ public class Main {
 		
 		
 		System.out.println("Hello");
-		
+		System.out.println("Good Evening");
+		System.out.println("How are you");
 		
 		
 		
